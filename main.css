@@ -1,0 +1,20 @@
+#result {
+  background-color: #333;
+  text-align: right;
+  color: #fff;
+  width: 100%;
+}
+
+tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  padding: 10px 30px;
+  border-radius: 28px;
+}
+
+.ac_button, .equal_button{
+  padding: 10px 65px;
+}
